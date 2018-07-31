@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Projeto</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="modo_de_comunicao_bluetooth">Modo de Comunicação Bluetooth</string>
+    <string name="iniciar_busca_de_dispositivos">Iniciar Busca de Dispositivos</string>
+    <string name="nao_suporta_bluetooth">O dispositivo não suporta Bluetooth</string>
+    <string name="a_aplicacao_necessita_da_ativacao">A aplicação necessita da ativação do Bluetooth</string>
+    <string name="bluetooth_ligado">Bluetooth Ligado</string>
+    <string name="bluetooth_desligado">Bluetooth Desligado</string>
+    <string name="title_activity_lista_dispositivos">ListaDispositivos</string>
+    <string name="pausar_busca_de_dispositivos">pausar busca de dispositivos</string>
+
+</resources>
